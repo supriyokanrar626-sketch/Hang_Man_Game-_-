@@ -36,7 +36,7 @@ UI: CLI / Web-based
 Libraries: (if any)
 🚀 Getting Started
 # Clone the repository
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/supriyokanrar626-sketch/Hang_Man_Game-_-
 
 # Navigate into the project
 cd hangman-game
